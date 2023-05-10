@@ -1,4 +1,4 @@
-<!-- 1. Cài đặt Project Boilerplate Monkey Blogging
+ 1. Cài đặt Project Boilerplate Monkey Blogging
 2. Thiết lập Firebase
 3. Thiết lập Routes
 4. Viết auth-context để lưu trữ thông tin User
@@ -20,8 +20,8 @@
 20. Update post with React quill
 21. Handle upload image in React quill
 
--->
 
+Chưa hoàn thiện
 22. Update profile
 23. Update auth information
 24. Optimize source code(PropTypes, logic, error boundary, services, UI UX...)
